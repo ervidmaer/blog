@@ -3,7 +3,7 @@
 title: Видмаер Егор
 
 # Name pronunciation (optional)
-name_pronunciation: Сергей Давыдов
+name_pronunciation: Видмаер Егор
 
 # Full name (for SEO)
 first_name: Егор
